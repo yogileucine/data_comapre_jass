@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Nov 04 14:52:35 IST 2023","Sat Nov 04 14:52:43 IST 2023","7911","tests.database","test_db","TestDataBaseConnection","","","test_compare_database",""

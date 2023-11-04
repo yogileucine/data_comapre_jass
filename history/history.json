@@ -1,0 +1,1 @@
+{"f05e8ceffdd8028971962ff0d41322f8":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"d9ae9fc401446deb","status":"failed","statusDetails":"AssertionError: jass_junaid & jass_siba Database columns are missing\nassert False","time":{"start":1699089755112,"stop":1699089763023,"duration":7911}}]}}
