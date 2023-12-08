@@ -1,2 +1,0 @@
-Instance: jass_junaid, Column: ['feature_flags'], Missing Column in Database table : organisation_settings
-Instance: jass_junaid, Column: ['date_format' 'date_time_format' 'time_format'], Missing Column in Database table : facilities
