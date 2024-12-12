@@ -1,1 +1,0 @@
-{"f05e8ceffdd8028971962ff0d41322f8":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"305dbfe64ee09ce3","status":"failed","statusDetails":"AssertionError: mlab & feature.a Database tables details are not matching\nassert False","time":{"start":1702029737100,"stop":1702030639839,"duration":902739}}]}}

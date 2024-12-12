@@ -1,1 +1,0 @@
-Table Name : cleaning_limit_policy
